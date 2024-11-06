@@ -1,7 +1,3 @@
-👋 Hi, I’m @PhilippTraber\
-`University of Constance`
+Hey there 👋,
 
-<!---
-PhilippTraber/PhilippTraber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Computer science Student at the University of Konstanz.
