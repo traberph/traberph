@@ -1,3 +1,3 @@
 Hey there 👋,
 
-I am a Computer science Student at the University of Konstanz.
+I am a computer science student at the University of Konstanz.
